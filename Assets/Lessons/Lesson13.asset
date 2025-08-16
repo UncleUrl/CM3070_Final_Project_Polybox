@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c12d2237409d74bf7b5ab250b3214104, type: 3}
+  m_Name: Lesson13
+  m_EditorClassIdentifier: 
+  bpm: 120
+  beatCount: 9
+  subdivisionCount: 8
+  beatPattern: 111011011
+  dialogueText: This is 9/8.
+  lessonText: "Here we have a pattern with 9 beats. \nNotice the pattern of rests.
+    \nWhat kind of synth patterns can you create to work with this?"

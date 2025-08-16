@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c12d2237409d74bf7b5ab250b3214104, type: 3}
+  m_Name: Lesson11
+  m_EditorClassIdentifier: 
+  bpm: 120
+  beatCount: 4
+  subdivisionCount: 8
+  beatPattern: 1011
+  dialogueText: This is a different rhythm.
+  lessonText: "Here we only have a rest on the second beat.\nTry raycasting the synth
+    slider again to get a different sound. \nThe Synth slider has the positions off,
+    lead, and pad. \nYou can Raycast additional beats for the Synth by using the
+    Synth Beat buttons."

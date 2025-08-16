@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c12d2237409d74bf7b5ab250b3214104, type: 3}
+  m_Name: Lesson10
+  m_EditorClassIdentifier: 
+  bpm: 140
+  beatCount: 4
+  subdivisionCount: 8
+  beatPattern: 1010
+  dialogueText: We have returned to the downstroke.
+  lessonText: "This is a variation of the Downstroke.\nTry raycasting the slider
+    on the right to add a synthesizer.\nRaycast any Synth button and then a Synth
+    Note button to change the note. \nIf you raycast a Synth button and then Synth
+    Note down you create a rest.\nRemember, you can raycast the Blue Dialogue box
+    to bring up the button labels."

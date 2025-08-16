@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Button
+  - Controller
+  - LED
+  - Effect
+  - Panel
+  - ReturnToController
+  - GameState
+  - Tones
+  - Sound
+  - Slider
+  - Display
+  - Transport
+  - Beat Count
+  - Information
+  - Time Sig
+  - Light
+  - LightUpButton
+  - SequencerRow
+  - Time Signature
+  - Subdivision
+  - Beat
+  - Synth
+  - SynthUp
+  - SynthDown
+  - SynthNoteUp
+  - SynthNoteDown
+  - SynthStep
+  - Instructions
+  - Interactor
+  - Info
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - TriggerBoard
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

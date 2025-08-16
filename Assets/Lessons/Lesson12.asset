@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c12d2237409d74bf7b5ab250b3214104, type: 3}
+  m_Name: Lesson12
+  m_EditorClassIdentifier: 
+  bpm: 120
+  beatCount: 4
+  subdivisionCount: 4
+  beatPattern: 1011
+  dialogueText: This is an example of 4/4 time.
+  lessonText: 'Let''s try something.
+
+    Change the beat to 5.
+
+    Change the subdivision
+    to 8.
+
+    Add a synth for 4.
+
+    Try changing these values - see what you can
+    come up with.
+
+    Can you hear how the rhythm changes?'
